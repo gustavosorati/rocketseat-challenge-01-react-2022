@@ -1,4 +1,4 @@
-![Rocketseat](_docs/capa.jpg)
+![Rocketseat](_docs/Capa.jpg)
 
 This repository contains the resolution of 1th project: Practicing Concepts from the react js course by rocketseat. In this challenge, a to-do list was developed using reactjs.
 
